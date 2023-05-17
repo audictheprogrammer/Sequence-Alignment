@@ -1,5 +1,0 @@
-set xlabel "Longueur du mot x"
-set ylabel "Temps (s)"
-set title "DIST 2"
-
-plot "Output_C.txt" using 1:2 title "DIST 2" with lines

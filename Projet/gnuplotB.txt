@@ -1,5 +1,0 @@
-set xlabel "Longueur du mot x"
-set ylabel "Temps (s)"
-set title "PROG DYN"
-
-plot "Output_B.txt" using 1:2 title "PROG DYN" with lines
